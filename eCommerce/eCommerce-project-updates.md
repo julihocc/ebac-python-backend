@@ -1,9 +1,13 @@
 # Projecto eCommerce con Django
 Presenta Juliho Castillo
 
+El código del proyecto se encuentra en la carpeta `eCommerce`. Para cada entrega se creará una rama diferente del repositorio:
+
 | Módulo | Tema | URL |
 | ------ | ---- | --- |
 | 14 | Fundamentos de Linux e Introducción a Django | https://github.com/julihocc/ebac-python-backend/tree/Fundamentos-de-Linux-e-Introducci%C3%B3n-a-Django%E2%80%9D |
+
+A continuación se detalla el trabajo realizado en cada entrega. 
 
 ### Fundamentos de Linux e introducción a Django
 
